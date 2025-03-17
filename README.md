@@ -68,7 +68,7 @@ We're always open to collaborating with forward-thinking organisations and indiv
 <div align="center">
 
 ```
-contact@orbizen.com | www.orbizen.com
+mail@orbizen.com | www.orbizen.com
 ```
 **Orbizen Limited** | *Registered in England and Wales*
 
