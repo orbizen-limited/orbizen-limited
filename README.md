@@ -37,10 +37,10 @@ To develop intelligent software that empowers organizations to achieve their ful
 ## 🌐 Technologies We Orbit
 
 ```
-    React      Python      Node.js      AWS      WebGL      WhatsApp API            PHP  
+    React      Python      Node.js      AWS      WebGL               API  
   ✦       ✧        ✦        ✧     ✦        ✧          ✦                ✦                          
-      TypeScript      Laravel         Docker      Azure       TensorFlow         Blockchain
-      ✧       ✦       ✧         ✦           ✧          ✦               ✦                  ✧          
+      TypeScript      Laravel        PHP         Wasabi       Blockchain
+      ✧       ✦       ✧         ✦           ✧          ✦               ✦           
 
 ```
 
