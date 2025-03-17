@@ -1,8 +1,3 @@
-
-<!---
-orbizen-limited/orbizen-limited is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # 🌌 O R B I Z E N  L I M I T E D 🌌
 
 <div align="center">
@@ -42,9 +37,12 @@ To develop intelligent software that empowers organizations to achieve their ful
 ## 🌐 Technologies We Orbit
 
 ```
-    React     Python     Node.js     AWS     Kubernetes
-  ✦       ✧       ✦       ✧       ✦       ✧       ✦
-      TypeScript     TensorFlow     Docker     Blockchain
+    React      Python      Node.js      AWS      WebGL
+  ✦       ✧        ✦        ✧       ✦       ✧       ✦
+      TypeScript      Laravel      Docker      Azure
+  ✧       ✦        ✧        ✦       ✧       ✦       ✧
+    WhatsApp API      PHP      TensorFlow      Blockchain
+  ✦       ✧        ✦        ✧       ✦       ✧       ✦
 ```
 
 ## 🔭 Current Projects
@@ -55,6 +53,8 @@ We're currently focused on developing next-generation solutions in:
 - Predictive analytics platforms
 - Immersive digital experiences
 - Edge computing implementations
+- WhatsApp Business API integrations
+- Cloud-native applications on AWS and Azure
 
 ## 🌱 Growing With Us
 
