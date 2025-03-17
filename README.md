@@ -67,10 +67,10 @@ We're always open to collaborating with forward-thinking organisations and indiv
 
 <div align="center">
  
- [orbizen](https://orbizen.com)  | [Email📫](mailto:mail@orbizen.com)
+ [**Orbizen Limited**](https://orbizen.com)  | [Email📫](mailto:mail@orbizen.com)  | *Registered in England and Wales*
 
 
-**Orbizen Limited** | *Registered in England and Wales*
+
 
 </div>
 
