@@ -37,12 +37,11 @@ To develop intelligent software that empowers organizations to achieve their ful
 ## 🌐 Technologies We Orbit
 
 ```
-    React      Python      Node.js      AWS      WebGL
-  ✦       ✧        ✦        ✧       ✦       ✧       ✦
-      TypeScript      Laravel      Docker      Azure
-  ✧       ✦        ✧        ✦       ✧       ✦       ✧
-    WhatsApp API      PHP      TensorFlow      Blockchain
-  ✦       ✧        ✦        ✧       ✦       ✧       ✦
+    React      Python      Node.js      AWS      WebGL      WhatsApp API            PHP  
+  ✦       ✧        ✦        ✧     ✦        ✧          ✦                ✦                          
+      TypeScript      Laravel         Docker      Azure       TensorFlow         Blockchain
+      ✧       ✦       ✧         ✦           ✧          ✦               ✦                  ✧          
+
 ```
 
 ## 🔭 Current Projects
