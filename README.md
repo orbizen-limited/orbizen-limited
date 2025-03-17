@@ -66,10 +66,10 @@ We're always open to collaborating with forward-thinking organisations and indiv
 ## 📫 Connect With Us
 
 <div align="center">
+ 
+ [orbizen](https://orbizen.com)  | [Email📫](mailto:mail@orbizen.com)
 
-```
-(Email📫)[mailto:mail.orbizen.com] | [www.orbizen.com](https://orbizen.com)
-```
+
 **Orbizen Limited** | *Registered in England and Wales*
 
 </div>
